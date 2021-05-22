@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ShortyLogos! 🐸
 - 👀 I’m interested in Web Development, Procedural Generation, UIs and Storytelling.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
-- 💞️ I’m looking to collaborate on simple yet original projects to secure solid fundamentals.
-- 🧙‍♂️ I love nachos and books.
+- 🧑‍🤝‍🧑 I’m looking to collaborate on simple yet original projects to secure solid fundamentals.
+- 🧙‍♂️ I love nachos, books and travelling.
 - 📫 How to reach me : dericmarchand@gmail.com
 
 
