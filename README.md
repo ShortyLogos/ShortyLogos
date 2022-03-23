@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShortyLogos! 🐸
 - 👀 I’m interested in Web Development, Procedural Generation, UIs, Game Development and Storytelling.
-- :point_right: I know how to code in HTML, CSS, JS, Java and C++.
-- 🌱 I’m currently learning Python, PHP, SQL, Android Dev, Vue.js and refining my CSS and JS knowledge in general.
+- :point_right: I know CSS, JS, Java, Python, SQL, Android Dev, and  a bit of Vue.js and C++.
+- 🌱 I’m currently learning TypeScript, Svelte and refining my CSS, Python and JS skills.
 - 🧑‍🤝‍🧑 I’m looking to collaborate on simple yet original projects to secure solid fundamentals.
 - 🧙‍♂️ I love nachos, books and travelling.
 - 📫 How to reach me : dericmarchand@gmail.com
