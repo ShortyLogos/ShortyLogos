@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShortyLogos! 🐸
 - 👀 I’m interested in Web Development, Procedural Generation, UIs, Artificial Intelligence, Game Development and Storytelling.
 - :point_right: I know JS, React, PHP, CSS, SASS, Tailwind, Java, Python, SQL, MongoDB, Neo4j, BerkeleyDB, Android Dev, a bit of Unity and a tiny bit of C/C++.
-- 🌱 I’m currently learning React.js, Vue.js, Express.js, Laravel, Socket.io, Bootstrap and Tailwind.
+- 🌱 I’m currently learning Express.js and Laravel.
 - 🧙‍♂️ I love nachos, movies, good-looking UIs and travelling.
 - 📫 How to reach me : dericmarchand@gmail.com
 
