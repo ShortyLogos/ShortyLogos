@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShortyLogos! 🐸
-- 👀 I’m interested in Web Development, Procedural Generation, UIs, Artificial Intelligence, Game Development and Storytelling.
+- 👀 I’m interested in Web Development, UI/UX Design, Procedural Generation, Artificial Intelligence, Game Development and Storytelling.
 - :point_right: I know JS, React, Node.js, Express, PHP, CSS, SASS, Tailwind, Java, Python, SQL, MongoDB, Neo4j, BerkeleyDB, Android Dev, a bit of Unity and Laravel and a tiny bit of C/C++.
 - 🌱 I’m currently learning SvelteKit and Typescript.
 - 🧙‍♂️ I love nachos, movies, good-looking UIs and travelling.
